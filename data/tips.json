@@ -1,0 +1,26 @@
+{
+  "basics": [
+    {"title": "Speak in the first person", "body": "Say \"I need your signature,\" not \"She says she needs your signature.\" Speak as the person you are interpreting, and keep their pronouns. Use the third person only to clarify something as the interpreter (\"The interpreter needs to clarify...\")."},
+    {"title": "Don't add, omit, or change", "body": "Convey everything that was said, including tone and hesitations. Do not soften bad news, summarize, or give advice. If you do not know a word, say so rather than guessing."},
+    {"title": "Ask to repeat", "body": "It is professional to ask for repetition or clarification. Say to the speaker: \"The interpreter requests a repetition.\" Ask them to speak in short chunks of one or two sentences."},
+    {"title": "Stay neutral and confidential", "body": "Do not give your opinion, take sides, or discuss the meeting afterward. Introduce your role at the start and explain that everything is confidential."},
+    {"title": "Use usted", "body": "Address parents formally with usted unless they invite otherwise. Verbs: \"puede\", \"tiene\", \"firme\", \"venga\" (not \"puedes\", \"tienes\", \"firma\", \"ven\")."},
+    {"title": "Handle acronyms and jargon", "body": "Expand acronyms the first time (IEP, ELL, 504). If a concept has no Spanish equivalent, explain it briefly and tell the speaker you did so."},
+    {"title": "Seat and eye contact", "body": "Sit slightly behind or beside the parent and speaker so they look at each other, not at you."},
+    {"title": "Know your limits", "body": "If a meeting involves legal, medical, or highly technical content beyond your level, tell the school and request a qualified interpreter."},
+    {"title": "Gender of the child", "body": "Use \"hijo\" for a son and \"hija\" for a daughter. If you do not know, use \"su hijo o hija\" or the child's name, and ask."}
+  ],
+  "regional": [
+    {"concept": "report card", "words": [["boleta", "Mexico, Central America, Peru"], ["libreta", "Dominican Republic, Venezuela, others"], ["tarjeta de calificaciones", "Puerto Rico"], ["informe de notas", "parts of South America"]], "flag": "Country assignments need native review."},
+    {"concept": "grade (score)", "words": [["calificación", "Mexico"], ["nota", "Central and South America, Spain"]]},
+    {"concept": "to fail a class", "words": [["reprobar", "Mexico, Central America"], ["perder la materia", "Colombia, Venezuela"], ["suspender", "Spain (avoid in Latin America)"]]},
+    {"concept": "school bus", "words": [["camión", "Mexico"], ["bus", "Central America"], ["guagua", "Caribbean"], ["autobús", "understood everywhere"]]},
+    {"concept": "homework", "words": [["tarea", "Latin America"], ["deberes", "Spain"]]},
+    {"concept": "cell phone", "words": [["celular", "Latin America"], ["móvil", "Spain"]]},
+    {"concept": "teacher", "words": [["maestro / maestra", "Mexico, Central America"], ["profesor / profesora", "secondary school, South America, widely understood"]]},
+    {"concept": "ID document", "words": [["credencial", "Mexico"], ["cédula", "many Central and South American countries"], ["DNI", "Peru, Argentina"]]},
+    {"concept": "birth certificate", "words": [["acta de nacimiento", "Mexico"], ["partida de nacimiento", "many South American countries"], ["certificado de nacimiento", "widely understood"]]},
+    {"concept": "doctor's note", "words": [["justificante", "Mexico"], ["excusa médica", "Puerto Rico"], ["certificado médico", "South America"]]},
+    {"concept": "to take / to pick up", "words": [["recoger", "safe everywhere"], ["coger", "AVOID: vulgar in Mexico, Argentina and others"]]}
+  ]
+}

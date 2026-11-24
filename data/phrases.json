@@ -1,0 +1,38 @@
+{
+  "school": [
+    {"id":"ps-01","en":"Good morning. My name is ___. I will be your interpreter today.","es":"Buenos días. Me llamo ___. Hoy seré su intérprete.","pron":"BWEH-nos DEE-ahs. Meh YAH-moh ___. OY seh-REH soo een-TER-preh-teh."},
+    {"id":"ps-02","en":"Thank you for coming today.","es":"Gracias por venir hoy.","pron":"GRAH-syahs por beh-NEER oy."},
+    {"id":"ps-03","en":"Please have a seat.","es":"Por favor, tome asiento.","pron":"por fah-BOR, TOH-meh ah-SYEN-toh."},
+    {"id":"ps-04","en":"Everything we say here is confidential.","es":"Todo lo que se diga aquí es confidencial.","pron":"TOH-doh loh keh seh DEE-gah ah-KEE es kohn-fee-den-SYAHL.","flag":"Check the subjunctive \"se diga\"; \"se hable aquí\" may be more natural."},
+    {"id":"ps-05","en":"Your child has been absent three days this week.","es":"Su hijo ha faltado a clases tres días esta semana.","pron":"soo EE-hoh ah fahl-TAH-doh ah KLAH-ses tres DEE-ahs ES-tah seh-MAH-nah."},
+    {"id":"ps-06","en":"Please send a note when your child is absent.","es":"Por favor, envíe una nota cuando su hijo falte a clases.","pron":"por fah-BOR, en-VEE-eh OO-nah NOH-tah KWAN-doh soo EE-hoh FAHL-teh ah KLAH-ses."},
+    {"id":"ps-07","en":"Your child is doing well in class.","es":"A su hijo le está yendo bien en la clase.","pron":"ah soo EE-hoh leh es-TAH YEN-doh byen en lah KLAH-seh."},
+    {"id":"ps-08","en":"We are concerned about your child's grades in math.","es":"Nos preocupan las calificaciones de su hijo en matemáticas.","pron":"nohs preh-oh-KOO-pahn lahs kah-lee-fee-kah-SYOH-nes deh soo EE-hoh en mah-teh-MAH-tee-kahs."},
+    {"id":"ps-09","en":"Your child was involved in a fight today.","es":"Su hijo se involucró en una pelea hoy.","pron":"soo EE-hoh seh een-boh-loo-KROH en OO-nah peh-LEH-ah oy."},
+    {"id":"ps-10","en":"We need your permission to evaluate your child.","es":"Necesitamos su permiso para evaluar a su hijo.","pron":"neh-seh-see-TAH-mos soo per-MEE-soh PAH-rah eh-vah-LWAR ah soo EE-hoh."},
+    {"id":"ps-11","en":"You have the right to disagree.","es":"Usted tiene derecho a no estar de acuerdo.","pron":"oos-TED TYEH-neh deh-REH-choh ah noh es-TAR deh ah-KWER-doh."},
+    {"id":"ps-12","en":"Please sign here.","es":"Por favor, firme aquí.","pron":"por fah-BOR, FEER-meh ah-KEE."},
+    {"id":"ps-13","en":"Your child has a fever. Please come pick him up.","es":"Su hijo tiene fiebre. Por favor, venga a recogerlo.","pron":"soo EE-hoh TYEH-neh FYEH-breh. por fah-BOR, BEN-gah ah reh-koh-HER-loh."},
+    {"id":"ps-14","en":"We will send the report card home next week.","es":"Enviaremos la boleta de calificaciones a su casa la próxima semana.","pron":"en-vee-ah-REH-mos lah boh-LEH-tah deh kah-lee-fee-kah-SYOH-nes ah soo KAH-sah lah PROK-see-mah seh-MAH-nah.","flag":"\"Boleta\" vs. \"libreta\" depends on the family's country."},
+    {"id":"ps-15","en":"Do you have any questions?","es":"¿Tiene alguna pregunta?","pron":"TYEH-neh ahl-GOO-nah preh-GOON-tah."},
+    {"id":"ps-16","en":"We will contact you by phone.","es":"Nos comunicaremos con usted por teléfono.","pron":"nohs koh-moo-nee-kah-REH-mos kohn oos-TED por teh-LEH-foh-noh."}
+  ],
+  "parent": [
+    {"id":"pp-01","es":"No entiendo. ¿Puede repetirlo, por favor?","en":"I don't understand. Can you repeat that, please?"},
+    {"id":"pp-02","es":"Mi hijo estuvo enfermo ayer.","en":"My son was sick yesterday."},
+    {"id":"pp-03","es":"¿Cuándo es la reunión?","en":"When is the meeting?"},
+    {"id":"pp-04","es":"¿Cómo le está yendo a mi hija en la escuela?","en":"How is my daughter doing in school?"},
+    {"id":"pp-05","es":"Mi hijo dice que otros niños le hacen bullying.","en":"My son says other children are bullying him.","flag":"\"Hacer bullying\" is colloquial. A parent may say \"lo molestan\" or \"se burlan de él\"."},
+    {"id":"pp-06","es":"¿Qué puedo hacer en casa para ayudarle?","en":"What can I do at home to help him?"},
+    {"id":"pp-07","es":"No estoy de acuerdo con la decisión.","en":"I don't agree with the decision."},
+    {"id":"pp-08","es":"¿Cuánto tiempo va a durar la suspensión?","en":"How long will the suspension last?"},
+    {"id":"pp-09","es":"¿Pueden darme los documentos en español?","en":"Can you give me the documents in Spanish?"},
+    {"id":"pp-10","es":"¿Mi hijo va a recibir servicios de educación especial?","en":"Is my son going to receive special education services?"},
+    {"id":"pp-11","es":"Voy a recoger a mi hijo temprano hoy.","en":"I am going to pick up my son early today."},
+    {"id":"pp-12","es":"Mi hijo no se siente seguro en la escuela.","en":"My son doesn't feel safe at school."},
+    {"id":"pp-13","es":"¿Puedo hablar con la directora?","en":"Can I speak with the principal?"},
+    {"id":"pp-14","es":"¿Cómo puedo ver las calificaciones de mi hija?","en":"How can I see my daughter's grades?"},
+    {"id":"pp-15","es":"Necesito más tiempo para pensarlo.","en":"I need more time to think about it."},
+    {"id":"pp-16","es":"Mi hija no quiere ir a la escuela.","en":"My daughter doesn't want to go to school."}
+  ]
+}
