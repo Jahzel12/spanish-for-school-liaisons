@@ -1,5 +1,5 @@
 // Bump VERSION when you change app files so phones pick up the update.
-var VERSION = 'v3';
+var VERSION = 'v4';
 var CACHE = 'sls-' + VERSION;
 var SHELL = ['./', 'index.html', 'style.css', 'app.js', 'manifest.json',
   'data/cards.json', 'data/phrases.json', 'data/tips.json',

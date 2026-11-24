@@ -11,7 +11,7 @@
     {"title": "Gender of the child", "body": "Use \"hijo\" for a son and \"hija\" for a daughter. If you do not know, use \"su hijo o hija\" or the child's name, and ask."}
   ],
   "regional": [
-    {"concept": "report card", "words": [["boleta", "Mexico, Central America, Peru"], ["libreta", "Dominican Republic, Venezuela, others"], ["tarjeta de calificaciones", "Puerto Rico"], ["informe de notas", "parts of South America"]], "flag": "Country assignments need native review."},
+    {"concept": "report card", "words": [["boleta", "Mexico, Central America, Peru"], ["libreta", "Dominican Republic, Venezuela, others"], ["tarjeta de calificaciones", "Puerto Rico"], ["informe de notas", "parts of South America"]]},
     {"concept": "grade (score)", "words": [["calificación", "Mexico"], ["nota", "Central and South America, Spain"]]},
     {"concept": "to fail a class", "words": [["reprobar", "Mexico, Central America"], ["perder la materia", "Colombia, Venezuela"], ["suspender", "Spain (avoid in Latin America)"]]},
     {"concept": "school bus", "words": [["camión", "Mexico"], ["bus", "Central America"], ["guagua", "Caribbean"], ["autobús", "understood everywhere"]]},
